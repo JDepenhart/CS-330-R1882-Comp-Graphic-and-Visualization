@@ -1,0 +1,15 @@
+﻿  Source.cpp
+D:\SNHU SCHOOL STUFF\Comp Graphic\Week 5\5-5 Milestone_Depenhart\OpenGLSample\Source.cpp(160,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\SNHU SCHOOL STUFF\Comp Graphic\Week 5\5-5 Milestone_Depenhart\OpenGLSample\Source.cpp(277,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\SNHU SCHOOL STUFF\Comp Graphic\Week 5\5-5 Milestone_Depenhart\OpenGLSample\Source.cpp(278,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\SNHU SCHOOL STUFF\Comp Graphic\Week 5\5-5 Milestone_Depenhart\OpenGLSample\Source.cpp(282,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\SNHU SCHOOL STUFF\Comp Graphic\Week 5\5-5 Milestone_Depenhart\OpenGLSample\Source.cpp(283,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\SNHU SCHOOL STUFF\Comp Graphic\Week 5\5-5 Milestone_Depenhart\OpenGLSample\Source.cpp(285,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\SNHU SCHOOL STUFF\Comp Graphic\Week 5\5-5 Milestone_Depenhart\OpenGLSample\Source.cpp(286,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\SNHU SCHOOL STUFF\Comp Graphic\Week 5\5-5 Milestone_Depenhart\OpenGLSample\Source.cpp(294,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Sphere.cpp
+D:\SNHU SCHOOL STUFF\Comp Graphic\Week 5\5-5 Milestone_Depenhart\OpenGLSample\Sphere.cpp(301,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\SNHU SCHOOL STUFF\Comp Graphic\Week 5\5-5 Milestone_Depenhart\OpenGLSample\Sphere.cpp(836,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\SNHU SCHOOL STUFF\Comp Graphic\Week 5\5-5 Milestone_Depenhart\OpenGLSample\Sphere.cpp(837,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  OpenGLSample.vcxproj -> D:\SNHU SCHOOL STUFF\Comp Graphic\Week 5\5-5 Milestone_Depenhart\Debug\OpenGLSample.exe
